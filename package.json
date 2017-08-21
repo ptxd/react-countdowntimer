@@ -1,6 +1,6 @@
 {
   "name": "react-countdowntimer",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "Countdown Timer Using React",
   "main": "build/index.js",
   "peerDependencies": {

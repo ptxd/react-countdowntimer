@@ -1,5 +1,5 @@
 This is a simple Countdown Timer using react.
-I have made some breaking changes to this library from v0.0.3 to v0.0.4.
+I have made some breaking changes to this library from v0.0.3 to v0.1.8.
 React in essence is not 'styling' friendly hence a lot of react libraries out there come with pre-determined styles which usually requires overriding the css styling.
 To solve this problem I have broken down the time calculation to 4 different components.
 Current library only support days, hours, minutes and seconds calculations. Will add months and years at a later date before V1.0.0.
